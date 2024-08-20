@@ -1,25 +1,23 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+--subtitle: <a href='mailto:medaamarnadh@gmail.com'>medaamarnadh@gmail.com</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='mailto:medaamarnadh@gmail.com'>medaamarnadh@gmail.com</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: amar-profile-pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p><a href="mailto:medaamarnadh@gmail.com">medaamarnadh@gmail.com</a></p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+--news: true # includes a list of news items
+--selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+With over 10 years of experience in enterprise and desktop application development, I have a strong background in creating multi-tenant products and designing robust REST APIs using SpringBoot, NestJs, ExpressJs, HapiJs, FastAPI, and Django. 
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am proficient in utilizing design patterns such as Singleton, Factory, and MVC, and skilled in database management, including stored procedures and data migrations. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My expertise extends to CI/CD pipelines, cloud services (AWS, Azure, DigitalOcean), and system monitoring with tools like PM2. Additionally, I have a proven track record as a team lead, contributing to architectural designs, and integrating payment gateways and Google Sheets.
