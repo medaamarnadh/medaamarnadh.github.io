@@ -11,3 +11,4 @@ github_repos:
   - medaamarnadh/sequelize-migration
   - medaamarnadh/javascript-file-utils
   - medaamarnadh/db-template
+  - leanfolks/novarace-photos-sync
