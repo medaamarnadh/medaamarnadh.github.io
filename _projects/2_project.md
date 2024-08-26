@@ -1,25 +1,14 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: CypressLawn
+description: CypressLawn | Best Funeral Home
+img: assets/img/cypresslawn.webp
 importance: 2
 category: work
 giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+What makes Cypress Lawn different from the rest? Over a century of experience providing premium funeral and cremation services, our beautiful cemetery, state-of-the-art facilities, and caring staff are in a league of their own.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

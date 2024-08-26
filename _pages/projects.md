@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: Projects
+permalink: /projects
+description: As a Technical Architect, I love to work variety of domains and technologies. A few of projects I have contributed so far.
 nav: true
 nav_order: 3
 display_categories: [work, fun]
@@ -37,7 +37,7 @@ horizontal: false
   {% endif %}
   {% endfor %}
 
-{% else %}
+{% else %}c
 
 <!-- Display projects without categories -->
 

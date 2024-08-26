@@ -4,22 +4,18 @@ title: Novarace
 description: Race Management Solution
 img: assets/img/novarace.svg
 importance: 1
-category: Timing Solutions
+category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Discover NovaRace.in, a unique digital platform empowering race enthusiasts with real-time tracking and insights. Our innovative solutions combine advanced technology with a passion for speed, delivering an unmatched experience for every race. Explore the code behind the excitement on my GitHub portfolio.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+---
+layout: page
+title: Novarace
+description: A real-time Time management digital solution for Marathons
+img: /assets/img/12.jpg
+---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

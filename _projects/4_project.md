@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: Enshire
+description: Hire SMART, Hire Quickly by relying on Enshire.
+img: assets/img/enshire.png
 importance: 3
-category: fun
+category: work
 ---
 
 Every project has a beautiful feature showcase page.
