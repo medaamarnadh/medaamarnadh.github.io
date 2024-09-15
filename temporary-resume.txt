@@ -105,7 +105,7 @@
       "url": "https://university.mongodb.com/course_completion/025fdd71b8a84707bf8f3b526cacc859",
       "icon": "fa-solid fa-location-dot"
     }
-  ],
+  ],  
   "skills": [
     {
       "name": "Web Development",
@@ -147,42 +147,38 @@
   ],
   "interests": [
     {
-      "name": "Web Development",
+      "name": "Physics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Content Mangement Systems",
-        "CRM",
-        "Web development",
-        "Mobile Application Development",
-        "Desktop Application Development",
-        "Cloud Infrastructure Development"
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
       ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Professor John Doe",
+      "icon": "fa-solid fa-laptop",
+      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+    },
+    {
+      "name": "Professor John Doe",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ],
   "projects": [
     {
-      "name": "Novarace Marathon Event Mangement",
-      "summary": "Simplify Event Management with NovaRace: Online Registration Made Easy!",
-      "highlights": ["Timing Solutions", "CRM", "Registration and Payment Solution", "Volunteer Management Solutions"],      
-      "url": "https://www.novarace.in"
-    },
-    {
-      "name": "InstantAI",
-      "summary": "Get Professional Edits in Minutes - Powered by AI",
-      "highlights": ["Photo Editing", "Color Correction", "Creative Editing", "Transformation"],      
-      "url": "https://instanteditai.com/"
-    },
-    {
-      "name": "Moder8",
-      "summary": "AI Powered Data Moderation",
-      "highlights": ["Data Labeling", "Data Moderation", "Image Labeling", "Text Labeling"],      
-      "url": "https://moder8.in/"
-    },
-    {
-      "name": "WonderWe",
-      "summary": "A white labeled Non-profit platform",
-      "highlights": ["Fundraising", "Non-Profit"],      
-      "url": "https://moder8.in/"
-    },
+      "name": "Quantum Computing",
+      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01",
+      "url": "https://example.com"
+    }
   ]
 }
