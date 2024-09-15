@@ -112,7 +112,7 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "NodeJs","PYTHON","WordPress",
+        "NodeJs","PYTHON","WordPress","SpringBoot",
         "ReactJs",
         "Angular.io",
         "React-Native",
@@ -125,13 +125,23 @@
       ]
     },
     {
+      
         "name": "DevOps",
         "level": "Master",
         "icon": "fa-solid fa-hashtag",
         "keywords": [
           "AWS", "DigitalOcean", "BlueHost", "Azure", "Heroku"
         ]
-      }
+    },
+    {
+      
+      "name": "DataBase",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "MSSQL","MYSQL","POSTGRESQL","MONGODB","REDIS"
+      ]
+  }
   ],
   "languages": [
     {
@@ -183,6 +193,6 @@
       "summary": "A white labeled Non-profit platform",
       "highlights": ["Fundraising", "Non-Profit"],      
       "url": "https://moder8.in/"
-    },
+    }
   ]
 }
